@@ -1,1 +1,2 @@
 # Computer-Vision-Malaria-detection
+The objective of this challenge is to develop a multiclass object detection and classification model that can accurately identify and classify malaria parasites in blood slide images, specifically addressing diagnostic needs in Africa. Participants are required to create a machine learning model that can detect the trophozoite stage of malaria, and differentiate between infected and uninfected blood cells.
